@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SevenHalf</string>
+    <string name="bank">Bank</string>
+    <string name="You">You</string>
+    <string name="cero">0</string>
+    <string name="onemore">+ 1</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="onePlayer">1 Player</string>
+    <string name="twoPlayer">2 Player</string>
+    <string name="playAgain">Play Again</string>
+    <string name="youHaveWon">You have won!</string>
+    <string name="resumeGame">Resume Game</string>
+    <string name="newGame">New Game</string>
+</resources>

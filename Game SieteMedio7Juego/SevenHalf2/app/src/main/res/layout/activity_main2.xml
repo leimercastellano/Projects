@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/texturebg"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ImageView
+        android:id="@+id/imageMazoCartas"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/back" />
+
+    <ImageView
+        android:id="@+id/imageCardMove"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/back" />
+
+    <ImageView
+        android:id="@+id/imageCard1"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs01" />
+
+    <ImageView
+        android:id="@+id/imageCard2"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.157"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs02" />
+
+    <ImageView
+        android:id="@+id/imageCard3"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.282"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs03" />
+
+    <ImageView
+        android:id="@+id/imageCard4"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.398"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs04" />
+
+    <ImageView
+        android:id="@+id/imageCard5"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.527"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs05" />
+
+    <ImageView
+        android:id="@+id/imageCard6"
+        android:layout_width="97dp"
+        android:layout_height="117dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.636"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs06" />
+
+    <ImageView
+        android:id="@+id/imageCard7"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.749"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs07" />
+
+    <ImageView
+        android:id="@+id/imageCard8"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.874"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs08" />
+
+    <ImageView
+        android:id="@+id/imageCard9"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas"
+        app:layout_constraintVertical_bias="0.54"
+        app:srcCompat="@drawable/clubs09" />
+
+    <ImageView
+        android:id="@+id/imageCard01"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups01" />
+
+    <ImageView
+        android:id="@+id/imageCard02"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.18"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups02" />
+
+    <ImageView
+        android:id="@+id/imageCard03"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.315"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups03" />
+
+    <ImageView
+        android:id="@+id/imageCard04"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups04" />
+
+    <ImageView
+        android:id="@+id/imageCard05"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.553"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups05" />
+
+    <ImageView
+        android:id="@+id/imageCard06"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.678"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups06" />
+
+    <ImageView
+        android:id="@+id/imageCard07"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.771"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups07" />
+
+    <ImageView
+        android:id="@+id/imageCard08"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.874"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups08" />
+
+    <ImageView
+        android:id="@+id/imageCard09"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/cups09" />
+
+    <TextView
+        android:id="@+id/textViewBank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bank"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard05"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewYou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/You"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageCard5" />
+
+    <TextView
+        android:id="@+id/textAddScoreBank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cero"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard08"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.177"
+        app:layout_constraintStart_toEndOf="@+id/textViewBank"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textAddScoreYou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cero"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.152"
+        app:layout_constraintStart_toEndOf="@+id/textViewYou"
+        app:layout_constraintTop_toBottomOf="@+id/imageCard8" />
+
+    <TextView
+        android:id="@+id/textViewBank02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bank"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageMazoCartas"
+        app:layout_constraintTop_toBottomOf="@+id/imageCard09" />
+
+    <TextView
+        android:id="@+id/textViewYou02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/You"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard1"
+        app:layout_constraintEnd_toStartOf="@+id/imageMazoCartas"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageCard01" />
+
+    <TextView
+        android:id="@+id/textTotalScoreYou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cero"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard1"
+        app:layout_constraintEnd_toStartOf="@+id/imageMazoCartas"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewYou02"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textTotalScoreBank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cero"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toEndOf="@+id/imageMazoCartas"
+        app:layout_constraintTop_toBottomOf="@+id/textViewBank02"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/buttonPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/play"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonOneMore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:text="@string/onemore"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard1"
+        app:layout_constraintEnd_toStartOf="@+id/imageMazoCartas"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textTotalScoreYou" />
+
+    <Button
+        android:id="@+id/buttonStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:text="@string/stop"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageMazoCartas"
+        app:layout_constraintTop_toBottomOf="@+id/textTotalScoreBank" />
+
+    <Button
+        android:id="@+id/buttonPlayAgain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:text="@string/playAgain"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/texYouHaveWon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:text="@string/youHaveWon"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageCard5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageMazoCartas" />
+
+    <TextView
+        android:id="@+id/bankWinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:text="Bank is the winner"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageMazoCartas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageCard05" />
+</androidx.constraintlayout.widget.ConstraintLayout>

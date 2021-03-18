@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="principal">This is a test</string>
+    <string name="nextMatch">Next Match</string>
+    <string name="vs">vs.</string>
+    <string name="price">Price</string>
+    <string name="general">General:</string>
+    <string name="palco">Palco:</string>
+    <string name="vip">Vip:</string>
+    <string name="history">History</string>
+    <string name="city">City</string>
+    <string name="stadium">Stadium</string>
+    <string name="capacity">Capacity</string>
+    <string name="buyNow">Buy your ticket!</string>
+    <string name="titleCompany">Ticket Pixel Corp</string>
+    <string name="subTitleCompany">Save Money. Live Better</string>
+    <string name="date">12-11-20</string>
+    <string name="hourOsMatch">21:00</string>
+    <string name="generalPrice">79€</string>
+    <string name="palcoPrice">167€</string>
+    <string name="vipPrice">295€</string>
+
+
+    <!-- Barcelona-->
+    <string name="bcn">Fc Barcelona</string>
+    <string name="bcnCity">
+       Barcelona It is the capital and largest city of the autonomous community of Catalonia,
+        as well as the second most populous municipality of Spain</string>
+    <string name="bcnHistory"> FC BARCELONA commonly referred to as Barcelona and colloquially known as Barça, is a Spanish professional football club based in Barcelona</string>
+    <string name="bcnStadium">Camp Nou</string>
+    <string name="bcnCapaity">99.354</string>
+
+   <!-- Bayer-->
+    <string name="bayern">FC Bayern Munich</string>
+
+    <string name="cityBayern"> Munich is the capital and most populous city of Bavaria, the second most populous
+    German state</string>
+    <string name="bayernHistory">Fußball-Club Bayern München e.V is a
+        German professional sports club based in Munich, Bavaria. It is best known for its professional football team</string>
+    <string name="bayernStadium">Allianz Arena</string>
+    <string name="bayernCapacity">75.000</string>
+
+    <string name="pruebaPrice">60</string>
+
+    <!-- Atletico -->
+    <string name="atleticoName">Atlet. Madrid</string>
+    <string name="cityAtletico"> Madrid is the capital and most-populous city of Spain. The city has almost 3.3 million
+        inhabitants and a metropolitan area population of approximately 6.5 million. It is the second-largest city in the European Union </string>
+    <string name="atleticoHistory">Atletico Of Madrid is a Spanish professional football club based in Madrid, that play in La Liga</string>
+    <string name="atleticoStadium">Wanda Metropolitano</string>
+    <string name="atleticoCapacity">69.000</string>
+
+
+    <!-- Real madrid-->
+    <string name="madridName">Real Madrid</string>
+    <string name="madridCity"> Madrid is the capital and most-populous city of Spain. The city has almost 3.3 million
+        inhabitants and a metropolitan area population of approximately 6.5 million</string>
+    <string name="madridHistory">Real Madrid meaning Royal Madrid Football Club), commonly referred to as Real Madrid,
+        is a Spanish professional football club based in Madrid.</string>
+    <string name="madridStadium">Santiago Bernabeu</string>
+    <string name="madridCapacity">91.000</string>
+
+    <!-- psg-->
+    <string name="psg">Paris .SG</string>
+    <string name="psgCity"> Paris is is the capital and most populous city of France, with an estimated population of 2,148,271 residents as of 2020</string>
+    <string name="psgHistory">PSG commonly referred to as Paris Saint-Germain, Paris SG, or simply Paris or PSG, is a French professional football club based in Paris</string>
+    <string name="psgStadium">Park of Princess</string>
+    <string name="psgCapacity">61.000</string>
+    <!-- Chelsea FC-->
+    <string name="chelsea">Chelsea FC</string>
+    <string name="chelseaCity"> Fulham is an area of the London Borough of Hammersmith and Fulham in southwest London, England, 3.6 miles (5.8 km) southwest of Charing Cross. </string>
+    <string name="chelseaHistory">Chelsea Football Club are an English professional football club based in Fulham, London. Founded in 1905</string>
+    <string name="chelseaStadium">Stanford Brigde</string>
+    <string name="chelseaCapacity">40.834</string>
+
+    <!-- Liverpool-->
+    <string name="liverpol">Liverpool</string>
+    <string name="liveCity"> Liverpool is a city and metropolitan borough in Merseyside, England. Its population in 2019 was approximately 498,042, making it the tenth-largest English district by population. </string>
+    <string name="liveHistory">Liverpool Football Club is a professional football club in Liverpool, England, that competes in the Premier League, the top tier of English football</string>
+    <string name="liveStadium">Anfield</string>
+    <string name="liveCapacity">53.354</string>
+
+    <!-- Liverpool-->
+    <string name="schalke">Schalke 04</string>
+    <string name="schalkeeCity">Gelsenkirchen  is the 11th largest city of Germanys most populous federal state of North Rhine-Westphalia and its 262,528 (2016) inhabitants make it the 25th largest city of Germany </string>
+    <string name="schalkeeHistory">Schalke 04 is a professional German football and multi-sports club originally from the Schalke district of Gelsenkirchen, North Rhine-Westphalia.</string>
+    <string name="schalkeeStadium">WestFalia</string>
+    <string name="schalkeeCapacity">51.354</string>
+    <!-- Liverpool-->
+    <string name="juve">Juventus</string>
+    <string name="juveCity"> Turin  is a city and an important business and cultural centre in northern Italy. It is the capital city of Piedmont and of the Metropolitan City of Turin. </string>
+    <string name="juveHistory">Juventus is an Italian professional association football club based in Turin, Piedmont. Founded in 1897 by a group of Torinese students. </string>
+    <string name="juveStadium">Juventus Stadium</string>
+    <string name="juveCapacity">41.000</string>
+    <!-- Liverpool-->
+    <string name="manchester">Manchester City</string>
+    <string name="ManchesterCity"> Liverpool is a city and metropolitan borough in Merseyside, England. Its population in 2019 was approximately 498,042, making it the tenth-largest English district by population. </string>
+    <string name="manchesterHistory">Manchester City is an English football club based in Manchester that competes in the Premier League, the top flight of English football.</string>
+    <string name="manchesterStadium">City of Manchester S</string>
+    <string name="manchesterCapacity">55.354</string>
+    <!-- Liverpool-->
+    <string name="valencia">Valencia</string>
+    <string name="valenciaeCity">Valencia is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona, surpassing 800,000 inhabitants in the municipality. </string>
+    <string name="valenciaHistory">Valencia FC commonly referred to as Valencia CF or simply Valencia, is a Spanish professional football club in Valencia. They play in La Liga.</string>
+    <string name="valenciaStadium">Mestalla</string>
+    <string name="valenciaCapacity">48.600</string>
+    <!-- Liverpool-->
+    <string name="marsella">Marsella FC</string>
+    <string name="marsellaeCity"> Marseille  is the prefecture of the department of Bouches-du-Rhône and region of Provence-Alpes-Côte dAzur in France. It is located on the Mediterranean coast near the mouth of the Rhône </string>
+    <string name="marsellaHistory">Olympique de Marseille is a French professional football club based in Marseille. Founded in 1899.</string>
+    <string name="marsellaStadium">Velodromo Stadium</string>
+    <string name="marsellaCapacity">67.359</string>
+
+
+
+
+</resources>

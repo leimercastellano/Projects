@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">TicketSport</string>
+    <string name="title">Tickets</string>
+    <string name="subtitle">Find your ticket</string>
+    <string name="americanfootbal">American Football</string>
+    <string name="soccer">Soccer</string>
+    <string name="boxing">Boxing</string>
+    <string name="hockey">Hockey</string>
+    <string name="tenis">Tenis</string>
+    <string name="volleyball">Voleyball</string>
+    //American Football
+    <string name="titleactivitya">American Football</string>
+    <string name="subtitleactivity">Buy yout ticket now!!</string>
+
+    <string name="general">General Ticket</string>
+    <string name="principal">Principal ticket</string>
+    <string name="palco">Palco ticket</string>
+    <string name="Vip">Vip ticket</string>
+
+    <string name="generalprice">86$</string>
+    <string name="principalprice">109$</string>
+    <string name="palcoprice">159$</string>
+    <string name="vipprice">263$</string>
+    //Soccer
+    <string name="titleactivitysoccer">Soccer</string>
+    <string name="generalprice_soccer">35$</string>
+    <string name="principalprice_soccer">76$</string>
+    <string name="palcoprice_soccer">109$</string>
+    <string name="vipprice_soccer">125$</string>
+
+    //Boxing
+
+    <string name="titleactivity_boxing">Boxing</string>
+    <string name="generalprice_boxing">274$</string>
+    <string name="principalprice_boxing">365$</string>
+    <string name="palcoprice_boxing">690$</string>
+    <string name="vipprice_boxing">1255$</string>
+
+    //Hockey
+    <string name="titleactivity_hockey">Eis-Hockey</string>
+    <string name="generalprice_hockey">29$</string>
+    <string name="principalprice_hockey">55$</string>
+    <string name="palcoprice_hockey">90$</string>
+    <string name="vipprice_hockey">103$</string>
+    //tennis
+    <string name="titleactivity_tennis">Tennis</string>
+    <string name="generalprice_tennis">54$</string>
+    <string name="principalprice_tennis">87$</string>
+    <string name="palcoprice_tennis">102$</string>
+    <string name="vipprice_tennis">203$</string>
+    //volleyball
+    <string name="titleactivity_vole">Voleyball</string>
+    <string name="generalprice_vole">9$</string>
+    <string name="principalprice_vole">25$</string>
+    <string name="palcoprice_vole">41$</string>
+    <string name="vipprice_vole">60$</string>
+
+
+</resources>

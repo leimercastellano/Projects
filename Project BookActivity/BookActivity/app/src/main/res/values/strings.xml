@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Examen02</string>
+    <string name="title_activity_rwo_data2">rwo_data2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="reserve">Reserve a class</string>
+    <string name="Spinning">Spinning</string>
+    <string name="Fitness">Fitness</string>
+    <string name="Data">Data:</string>
+    <string name="Kombat">Kombat</string>
+    <string name="Spartan">Spartan</string>
+    <string name="Zumba">Zumba</string>
+    <string name="Time">Time:</string>
+    <string name="fecha">10/10/2020</string>
+    <string name="diez">10:00</string>
+    <string name="Trainer">Trainer:</string>
+    <string name="nueve">09:00</string>
+    <string name="trainername1">Peter K</string>
+    <string name="Kcal">Kcal:</string>
+    <string name="duration">Duration:</string>
+    <string name="room">Room:</string>
+    <string name="descripcion">Descripcion:</string>
+
+
+</resources>

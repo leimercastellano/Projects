@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textTitle">Buy your flight!</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="Sing">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="login">Log in</string>
+    <string name="singup">Sign Up</string>
+    <string name="noaccound">No accound?</string>
+    <string name="resetPasswd">Reset your password</string>
+    <string name="weJust">We just need registered email address to send </string>
+    <string name="weJust2">your password reset </string>
+    <string name="resetPw">Reset password</string>
+    <string name="hello">Hello There!</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="newsletter">Receive Newsleter?</string>
+    <string name="allready">ALREADY HAVE AN ACCOUND</string>
+
+</resources>
